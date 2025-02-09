@@ -1,0 +1,179 @@
+{
+    "basic": {
+        "firstName": "Mohit",
+        "lastName": "Kaushik",
+        "age": 31,
+        "email": "MohitKau1010@gmail.com",
+        "phone": "+91 9467644373",
+        "address": "Chandigarh, INDIA",
+        "photos": [
+            "images/photos/mobile.png",
+            "images/photos/colored.jpg",
+            "images/photos/bw.png"
+        ],
+        "resume": "https://drive.google.com/file/d/10GoG5pWQWKdc7sCmy-s8pa3ZMN04QPbm/view?usp=sharing"
+    },
+    "socials": [
+        {
+            "icon": "fa-brands fa-square-facebook",
+            "url": "https://www.facebook.com/mohit.kaushik.1010"
+        },
+        {
+            "icon": "fa-brands fa-linkedin",
+            "url": "https://www.linkedin.com/in/mohitkau1010/"
+        },
+        {
+            "icon": "fa-brands fa-github",
+            "url": "https://github.com/MohitKau1010"
+        },
+        {
+            "icon": "fa-brands fa-x-twitter",
+            "url": "https://twitter.com/"
+        },
+        {
+            "icon": "fa-brands fa-instagram",
+            "url": "https://www.instagram.com/"
+        }
+    ],
+    "about": {
+        "heading": "I'm <Mohit Kaushik>, a Flutter & Android Developer, Technical Lead and Mobile Expert.",
+        "description": "I'm a Flutter Developer with 6+ years of experience in building mobile applications. I specialize in Flutter, Android (Java/Kotlin), Payment Gateway Integration, Live Tracking, iOT Devices and more.",
+        "tech": [
+            "Java",
+            "Kotlin",
+            "Android",
+            "Dart",
+            "Flutter",
+            "Swift",
+            "iOS",
+            "Github",
+            "Firebase","ReST API",
+            "C,C++",
+            "CI/CD",
+            "SOLID Principals","UI/UX","Agile"
+        ],
+        "works": [
+            {
+                "image": "images/work/astudio.png",
+                "url": "https://developer.android.com/studio",
+                "height": 80
+            },
+            {
+                "image": "images/work/dsc.png",
+                "url": "https://developers.google.com/community/dsc",
+                "height": 30
+            },
+            {
+                "image": "images/work/pngegg (3).png",
+                "url": "https://developer.android.com/studio",
+                "height": 60
+            },
+            {
+                "image": "images/work/pngegg.png",
+                "url": "",
+                "height": 60
+            },
+            {
+                "image": "images/work/pngegg (1).png",
+                "url": "",
+                "height": 60
+            },
+            {
+                "image": "images/work/pngegg (2).png",
+                "url": "",
+                "height": 60
+            },
+            {
+                "image": "images/work/pngegg (4).png",
+                "url": "",
+                "height": 60
+            }
+        ]
+    },
+    "services": [
+        {
+            "icon": "images/services/app.png",
+            "title": "Mobile Development"
+        },
+        {
+            "icon": "images/services/ui.png",
+            "title": "UI/UX Design"
+        },
+        {
+            "icon": "images/services/rapid.png",
+            "title": "Rapid Prototyping"
+        },
+        {
+            "icon": "images/services/blog.png",
+            "title": "Technical Lead"
+        },
+        {
+            "icon": "images/services/open.png",
+            "title": "Open Source - GitHub"
+        }
+    ],
+    "projects": [
+        {
+            "banner": "images/projects/learnistic.png",
+            "icon": "images/projects/learnistic_logo.png",
+            "title": "Learnistic",
+            "description": "With the Learnistic CRM and mobile learning platform you can manage your own contacts as well as offer them free and paid training courses which you can setup via in-app purchases. Create your very own Learniverse!\n\nThe app is the perfect way for customers & clients to consume content, and for entrepreneurs today to simplify their business with a single app-driven CRM platform. ",
+            "link": "https://play.google.com/store/apps/details?id=com.learnistic.app&hl=en_IN&gl=US"
+        },
+        {
+            "banner": "images/projects/cityhunt.png",
+            "icon": "images/projects/cityhunt_logo.png",
+            "title": "Cityhunt",
+            "description": "AcityHUNT brings you awesome, customized game experiences right to your mobile device! Our company lives to create scavenger hunts and team building events that are guaranteed to get you moving, collaborating, and most of all having FUN! Simply log in, enter the access code to your game, and have a blast finding clues, completing challenges, and earning points to help your team to victory.",
+            "link": "https://play.google.com/store/apps/details?id=com.socialscavenger.cityhunt&pcampaignid=web_share"
+        },
+        {
+            "banner": "images/projects/learnspanish.png",
+            "icon": "images/projects/learnspanish_logo.png",
+            "title": "Learn Spanish like a MF",
+            "description": "Ready to learn Spanish from scratch and speak with confidence? With Learn Spanish Like a MF, you can quickly gain fluency through our fun and effective language learning app. Designed for all levels, from beginner to advanced, this app offers a dynamic way to improve your spoken language skills. Whether you want to learn easy, practice learning vocabulary, or build your fluency.",
+            "link": "https://play.google.com/store/apps/details?id=com.rapidospanish.app&pcampaignid=web_share"
+        },
+        {
+            "banner": "images/projects/approiq.png",
+            "icon": "images/projects/approiq_logo.png",
+            "title": "ApproIQ Cube",
+            "description": "The Approiq Cube Companion App connects with the Approiq Cube 3D electronic puzzle game device. It acts as an additional user interface and keeps track of the scores. It also provides a fully playable 2D demonstration game.",
+            "link": "https://play.google.com/store/apps/details?id=com.Approiq.Cube&pcampaignid=web_share"
+        },
+        {
+            "banner": "images/projects/betapp.png",
+            "icon": "images/projects/betapp_logo.png",
+            "title": "Bet-By-App",
+            "description": "Bet App allows its users to define the Bets, together with several relevant parameters, as well as to nominate at least one Referee, who will, at the right time, evaluate who has won the Bet and, at a later time, whether any potential Commitment that may have been connected to the Bet has been kept or not.",
+            "link": "https://play.google.com/store/apps/details?id=com.betbyapp.app&pcampaignid=web_share"
+        },
+        {
+            "banner": "images/projects/bvs.png",
+            "icon": "images/projects/bvs_logo.png",
+            "title": "Bhakti Vikasa Swami",
+            "description": "This App offers the entire collection of lectures, bhajans, seminars, and\nvarious other talks given by His Holiness Bhakti Vikasa Swami.",
+            "link": "https://play.google.com/store/apps/details?id=com.iskcon.bvks&pcampaignid=web_share"
+        }
+    ],
+    "contact": [
+        {
+            "icon": "fa-duotone fa-solid fa-house",
+            "title": "Location",
+            "description": "Chandigarh, IN",
+            "action": "https://maps.app.goo.gl/vZ8UKzBuggApQeCGA"
+        },
+        {
+            "icon": "fa-duotone fa-solid fa-phone",
+            "title": "Phone",
+            "description": "+91 9467644373",
+            "action": "https://wa.me/919467644373"
+        },
+        {
+            "icon": "fa-duotone fa-solid fa-envelope",
+            "title": "Email",
+            "description": "Mohitkau1010@gmail.com",
+            "action": "mailto:Mohitkau1010@gmail.com"
+        }
+    ]
+}
