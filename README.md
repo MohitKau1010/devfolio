@@ -29,16 +29,7 @@ Its a portfolio website for developers developed using [Jaspr](https://docs.page
 ## 🔑 License
 - This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
 
-## 🧑 Author
-
-#### Mohit Kaushik
-[![LinkedIn Link](https://img.shields.io/badge/Connect-Hamza-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
-)](https://www.linkedin.com/in/mohitkau1010/)
-
-You can also follow my GitHub Profile to stay updated about my latest projects:
-
-[![GitHub Follow](https://img.shields.io/badge/Connect-Hamza-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://www.linkedin.com/in/mohitkau1010/)
 
 If you liked the repo then kindly support it by giving it a star ⭐!
 
-Copyright (c) 2024 MUHAMMAD HAMZA
+Copyright (c) 2025 MOHIT KAUSHIK
