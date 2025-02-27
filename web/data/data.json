@@ -121,6 +121,13 @@
             "link": "https://play.google.com/store/apps/details?id=com.learnistic.app&hl=en_IN&gl=US"
         },
         {
+            "banner": "images/projects/goodwins.png",
+            "icon": "images/projects/goodwins_logo.png",
+            "title": "Goodwins Wholesale",
+            "description": "The UK's Largest Non-Food One-Stop Wholesaler B2B online store.",
+            "link": "https://goodwinswholesale.com/"
+        },
+        {
             "banner": "images/projects/cityhunt.png",
             "icon": "images/projects/cityhunt_logo.png",
             "title": "Cityhunt",
