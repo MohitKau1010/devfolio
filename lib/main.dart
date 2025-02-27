@@ -67,5 +67,6 @@ void main() {
           .background(color: themePrimaryColor),
     ],
     body: App(),
+
   ));
 }
